@@ -11,10 +11,10 @@ Computer Vision classification for violence using a VGG16 Architecture with pict
 - **Video Blurring**: Capable of blurring violence detected frames of videos then writing the altered version to a new .mp4v
 
 ### Model's Accuracy & Loss
-<img src="output/Scores.PNG" alt="model validation"/>
+<img src="output/Scores.png" alt="model validation"/>
 
 ### Image Prediction Example
-<img src="output/Predictions.PNG" alt="image predictions" width="400" height="600"/>
+<img src="output/Predictions.png" alt="image predictions" width="400" height="600"/>
 
 ### Video Violence Blurring Example (click image)
 [![Violence Blurring](https://img.youtube.com/vi/cKltZzBQpUw/0.jpg)](https://www.youtube.com/watch?v=cKltZzBQpUw)
