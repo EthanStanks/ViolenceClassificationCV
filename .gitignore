@@ -1,0 +1,4 @@
+/output/violence_vgg16.h5
+/data/train_images/non_violence/*.jpg
+/data/train_images/violence/*.jpg
+/src/__pycache__
