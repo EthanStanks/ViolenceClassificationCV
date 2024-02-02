@@ -27,7 +27,7 @@ To install and run the model on your Windows machine, follow these steps:
 ```https://github.com/EthanStanks/ViolenceClassificationCV.git```
 2. **Install Dependencies**: Ensure you have Python installed, then use `pip` to install the required libraries.<br />
 ```pip install -r requirements.txt```
-3. **Download Dataset**: Download the dataset from Kaggle then place the images inside:`.<br />
+3. **Download Dataset**: Download the dataset from Kaggle then place the images inside:.<br />
 ```data/train_images/```
 4. **Train Model**: Set TRAIN_MODEL boolean to True. Navigate to the ```src``` directory and execute the main.py script.<br />
 ```python main.py```
@@ -35,7 +35,7 @@ To install and run the model on your Windows machine, follow these steps:
 ```PREDICT_IMAGES = True```
 6. **Predict Videos** Add the video you'd like to predict inside `data/video_input/`. Set PREDICT_VIDEO boolean to True. Add the file name to the function call on line 88. Execute the main.py script.<br />
 ```PREDICT_VIDEO = True```
-6. **Blur Videos** Follow step 6. Ensure the True is passed as second parameter on line 88. Execute the main.py script.<br />
+6. **Blur Videos** Follow step 6. Ensure True is passed as second parameter on line 88. Execute the main.py script.<br />
 ```PREDICT_VIDEO = True```
 
 ## Credits
